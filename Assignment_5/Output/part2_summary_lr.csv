@@ -1,0 +1,4 @@
+experiment,final_log_loss,accuracy,last_epoch_misclassified
+"lr=0.01, epochs=50",0.6539516905109402,0.92,8
+"lr=0.1, epochs=50",0.5953275822442393,0.92,4
+"lr=1.0, epochs=50",0.3610245181866229,0.79,4
